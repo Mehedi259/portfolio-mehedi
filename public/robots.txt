@@ -2,4 +2,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://mehedi-portfolio.vercel.app/sitemap.xml
+Sitemap: https://mehedi-hasan-mridul.vercel.app/sitemap.xml
